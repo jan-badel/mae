@@ -1,0 +1,9 @@
+data/
+ckpt/
+checkpoints/
+output*/
+*.pth
+*.pt
+*.tar
+*.zip
+__pycache__/
